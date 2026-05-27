@@ -1,0 +1,45 @@
+{
+  "name": "Retail Pipeline Clean",
+  "dataColors": [
+    "#2D9CDB",
+    "#27AE9E",
+    "#F2994A",
+    "#EB5757",
+    "#9B51E0",
+    "#219653",
+    "#56CCF2",
+    "#F2C94C"
+  ],
+  "background": "#F4F6FB",
+  "foreground": "#1A2940",
+  "tableAccent": "#2D9CDB",
+  "good": "#27AE9E",
+  "neutral": "#2D9CDB",
+  "bad": "#EB5757",
+  "maximum": "#27AE9E",
+  "center": "#2D9CDB",
+  "minimum": "#EB5757",
+  "null": "#BDBDBD",
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Segoe UI Light",
+      "color": "#1A2940"
+    },
+    "title": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#828282"
+    },
+    "header": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI",
+      "color": "#828282"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#BDBDBD"
+    }
+  }
+}
