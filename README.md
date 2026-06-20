@@ -89,7 +89,7 @@ Retail_Data_Pipeline_DEPI/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Dahoomshaheen/Retail_Data_Pipeline_DEPI.git
+git clone https://github.com/SirBob13/Retail_Data_Pipeline_DEPI.git
 cd Retail_Data_Pipeline_DEPI
 ```
 
