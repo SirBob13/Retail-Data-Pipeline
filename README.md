@@ -66,7 +66,7 @@ Retail_Data_Pipeline_DEPI/
 │   └── RetailPipeline_Theme.json # Custom Power BI theme
 └── README.md
 ```
-
+<img width="1301" height="739" alt="Screenshot 2026-06-20 211123" src="https://github.com/user-attachments/assets/1a6d8f58-18d5-4ea0-8378-f4476279bdad" />
 ---
 
 ## 📊 Dataset
@@ -149,7 +149,6 @@ Connect to SQL Server at `localhost,1433` with username `sa`.
 Built as part of the **Digital Egypt Pioneers Initiative (DEPI)** — Data Engineering track.
 
 ---
-<img width="1301" height="739" alt="Screenshot 2026-06-20 211123" src="https://github.com/user-attachments/assets/1a6d8f58-18d5-4ea0-8378-f4476279bdad" />
 
 ## 📄 License
 
