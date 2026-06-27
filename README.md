@@ -67,6 +67,7 @@ Retail_Data_Pipeline_DEPI/
 └── README.md
 ```
 <img width="1301" height="739" alt="Screenshot 2026-06-20 211123" src="https://github.com/user-attachments/assets/1a6d8f58-18d5-4ea0-8378-f4476279bdad" />
+https://app.powerbi.com/groups/me/reports/3a357309-6615-45d6-9326-8be4b791fbca/1642f60d24aab7028f5e?experience=power-bi
 ---
 
 ## 📊 Dataset
